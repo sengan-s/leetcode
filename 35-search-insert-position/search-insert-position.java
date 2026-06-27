@@ -7,8 +7,6 @@ class Solution {
 
         }
         return nums.length;
+        
     }
 }
-
-        
-    
