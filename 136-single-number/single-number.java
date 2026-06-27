@@ -5,5 +5,6 @@ class Solution {
             result=result^num;
         }
         return result;
+        
     }
 }
